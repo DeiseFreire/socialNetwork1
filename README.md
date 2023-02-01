@@ -32,6 +32,10 @@ If you need help you might be able to find an answer on our [docs](https://docs.
 ## Nome do projeto:
 socialNetwork 
 
+### Replit
+
+https://socialnetwork1.deisefreire2022.repl.co/
+
 ### Comandos 
 pip install django-allauth django-crispy-forms
 python -m pip install --upgrade pip command.
@@ -85,6 +89,8 @@ EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
      
 ### Arquivos criados
 
+localhost:8000/admin/social/post/add/
+
 socialnetwork/landing/templates/landing/index.html # criado arquivo index.html
 
 socialnetwork/landing/templates/landing/base.html # criado arquivo base.html
@@ -100,7 +106,7 @@ socialnetwork/social/urls.py # criado arquivo urls.py
 
 https://docs.djangoproject.com/en/4.1/
 
-getbootstrap.com/docs/5.0/getting-started/introduction/
+https://getbootstrap.com/docs/5.0/getting-started/introduction/
 
 https://getbootstrap.com/docs/5.0/components/buttons/
 
