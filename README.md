@@ -33,7 +33,6 @@ If you need help you might be able to find an answer on our [docs](https://docs.
 socialNetwork 
 
 ### Replit
-
 https://socialnetwork1.deisefreire2022.repl.co/
 
 ### Comandos 
