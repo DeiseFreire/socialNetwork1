@@ -51,6 +51,8 @@ python manage.py runserver
 pip install Pillow
 pip install django-allauth
 github.com/pennersr/django-allauth/ree/master/allauth
+source env/bin/activate
+npm init -y #cria o package json
 
 ### Configurações 
 
