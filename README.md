@@ -152,6 +152,7 @@ Password (again)*
 111
 
 #### 1° teste
+
 admin/social/post/add
 
 Body: my first post 
@@ -175,6 +176,7 @@ Author: admin
 SAVE
 
 #### 2° teste
+
 Add a Post!
 
 Hi!!
@@ -188,5 +190,11 @@ admin Nov. 18, 2022, 6:16 p.m
 Hello!!
 
 admin Nov. 18, 2022, 6:16 p.m
+
+Email: admin1@gmail.com
+
+Username: admin1
+
+Senha: administrador
 
 
