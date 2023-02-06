@@ -120,43 +120,73 @@ https://getbootstrap.com/docs/5.0/components/spinners/
 ### Páginas criadas
 
 https://socialnetwork1.deisefreire2022.repl.co/
+
 /accounts/signup/
+
 /accounts/login/
+
 /admin/
+
 /admin/social/post/add
+
 /social/
+
 /social/post/1
 
 ### Testes na página
 
 E-mail*
+
 example123@example.com
+
 Username*
+
 TestUser
+
 Password*
+
 111
+
 Password (again)*
+
 111
 
 #### 1° teste
 admin/social/post/add
+
 Body: my first post 
+
 Created on :
+
 Author: admin
+
 SAVE
+
 ADD POST
+
 Body: second post 
+
 admin Nov. 17, 2022, 12:33 p.m.
+
 Created on:
+
 Author: admin
+
 SAVE
+
 #### 2° teste
 Add a Post!
+
 Hi!!
+
 [Submit!] <- botão enviar
+
 Hi!!
+
 admin Nov. 18, 2022, 6:16 p.m
+
 Hello!!
+
 admin Nov. 18, 2022, 6:16 p.m
 
 
